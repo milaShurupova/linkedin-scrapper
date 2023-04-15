@@ -1,0 +1,23 @@
+{
+  "name": "linkedin-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milaShurupova/linkedin-scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milaShurupova/linkedin-scrapper/issues"
+  },
+  "homepage": "https://github.com/milaShurupova/linkedin-scrapper#readme",
+  "dependencies": {
+    "linkedin-profile-scraper": "^2.3.1"
+  }
+}
